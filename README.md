@@ -2,6 +2,8 @@
 
 Welcome to **Eazy Eatz**, a responsive and visually appealing frontend project built using **ReactJS**. This app mimics a modern food delivery platform with category browsing, recommendations, item selection, and billing summary interface.  
 
+Deployment Link: ![eazy-eatz](https://eazy-eatz-sandy.vercel.app)
+
 ---
 
 ## 🔥 Features
