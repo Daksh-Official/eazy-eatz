@@ -55,6 +55,8 @@ Deployment Link: [eazy-eatz](https://eazy-eatz-sandy.vercel.app)
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+note: > 📸 *Image sources used in this project are for educational/demo purposes only and belong to their respective owners.*
+
 💬 A Personal Note
 This project was made with passion, coffee ☕, and the aim to learn ReactJS through real-world UI development.
 If you found this helpful, feel free to ⭐ the repo or drop a message! I'd love to connect and collaborate.
@@ -66,3 +68,4 @@ Made with ❤️ by Daksh Gupta
 ## 📬 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daksh-gupta-6a4816262/) or [email](daksh.official9705@gmail.com)
+
