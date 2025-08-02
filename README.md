@@ -1,0 +1,73 @@
+# 🍔 Eazy Eatz - Food Ordering Frontend
+
+Welcome to **Eazy Eatz**, a responsive and visually appealing frontend project built using **ReactJS**. This app mimics a modern food delivery platform with category browsing, recommendations, item selection, and billing summary interface.  
+
+---
+
+## 🔥 Features
+
+- 🎯 Interactive **Category Menu**
+- 🍕 Beautifully designed **Food Cards**
+- ⭐ Ratings, Prices & Restaurant Info
+- ➕ Add to Cart functionality
+- 🧾 Structured **Bill Summary**
+- 🧭 Change Address section
+- 🌄 Background image support with opacity overlay
+- 📱 Fully responsive layout
+
+---
+
+## 🖼️ Screenshots
+
+- ![Home Page](<img width="1902" height="868" alt="Screenshot 2025-08-02 130946" src="https://github.com/user-attachments/assets/d13ac7c5-3f97-4e3f-9b07-21a02cca4f83" />)<br>
+- ![Menu Section](<img width="1905" height="861" alt="Screenshot 2025-08-02 131021" src="https://github.com/user-attachments/assets/cb43e00a-26b1-42ad-9f83-6b1135b80e45" />)<br>
+- ![Billing Summary](<img width="1899" height="864" alt="Screenshot 2025-08-02 131040" src="https://github.com/user-attachments/assets/05342507-263b-4e14-ae88-e1250b438e4a" />) <br>
+
+---
+
+## 📦 How to Use
+
+1. **Clone the repository**
+
+`git clone https://github.com/Daksh-Official/eazy-eatz.git`
+
+📸 **Image Assets**
+Since image files are hosted externally to keep the repo lightweight, you can find them here:
+
+📂 Google Drive Image Folder: [Click to Download](https://drive.google.com/drive/folders/1fRUTlW2GDJrBQ8kAGzNmp4CrPI2SVbp6?usp=drive_link)
+
+place the images folder in eazy-eatz/public.
+
+2. **Navigate into the project folder**
+
+`cd eazy-eatz`
+
+3. **Install dependencies**
+
+`npm install`
+
+4. **Start the Devlopment Server**
+
+`npm start`
+
+🚀 Future Enhancements
+
+-> Add cart functionality with local storage or Redux
+->Integrate backend APIs
+->Add user login system
+->Add animations and transitions
+
+🙌 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+💬 A Personal Note
+This project was made with passion, coffee ☕, and the aim to learn ReactJS through real-world UI development.
+If you found this helpful, feel free to ⭐ the repo or drop a message! I'd love to connect and collaborate.
+Thanks for stopping by! 🚀
+
+Made with ❤️ by Daksh Gupta
+
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daksh-gupta-6a4816262/) or [email](daksh.official9705@gmail.com)
