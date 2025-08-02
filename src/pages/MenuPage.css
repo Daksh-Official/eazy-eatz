@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Playwrite+HU:wght@100..400&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+.menu-page {
+  padding: 40px 60px;
+  background-color: #f9f9f9;
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menu-title {
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.menu-category {
+  font-size: 12px;
+  font-weight: bold;
+}
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(5, auto);
+  gap: 40px 30px;
+  width: 100%;
+  max-width: 1200px;
+  justify-content: center;
+}
+
+.menu-card {
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: 460x;
+}
+
+.extra-details {
+  margin-top: auto;
+  height: 200px;
+}
+.menu-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.menu-name {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.menu-price {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.discount {
+  color: green;
+}
+.preorder-btn {
+  background-color: #ffc107;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+
+.customisable-text {
+  font-size: 12px;
+  margin-top: 4px;
+  color: #666;
+}
+
+.availability-text {
+  font-size: 12px;
+  margin-top: 6px;
+  color: #444;
+}
+
+.pagination {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
