@@ -19,7 +19,7 @@ Welcome to **Eazy Eatz**, a responsive and visually appealing frontend project b
 
 ## 🖼️ Screenshots
 
-- ![Home Page](<img width="1902" height="868" alt="Screenshot 2025-08-02 130946" src="https://github.com/user-attachments/assets/d13ac7c5-3f97-4e3f-9b07-21a02cca4f83" />)<br>
+- ![Home Page](src/assets/Screenshot 2025-08-02 130946.png)<br>
 - ![Menu Section](<img width="1905" height="861" alt="Screenshot 2025-08-02 131021" src="https://github.com/user-attachments/assets/cb43e00a-26b1-42ad-9f83-6b1135b80e45" />)<br>
 - ![Billing Summary](<img width="1899" height="864" alt="Screenshot 2025-08-02 131040" src="https://github.com/user-attachments/assets/05342507-263b-4e14-ae88-e1250b438e4a" />) <br>
 
@@ -52,10 +52,10 @@ place the images folder in eazy-eatz/public.
 
 🚀 Future Enhancements
 
--> Add cart functionality with local storage or Redux
-->Integrate backend APIs
-->Add user login system
-->Add animations and transitions
+-> Add cart functionality with local storage or Redux<br>
+->Integrate backend APIs<br>
+->Add user login system<br>
+->Add animations and transitions<br>
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
