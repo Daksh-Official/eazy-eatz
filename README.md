@@ -31,13 +31,6 @@ Welcome to **Eazy Eatz**, a responsive and visually appealing frontend project b
 
 `git clone https://github.com/Daksh-Official/eazy-eatz.git`
 
-📸 **Image Assets**
-Since image files are hosted externally to keep the repo lightweight, you can find them here:
-
-📂 Google Drive Image Folder: [Click to Download](https://drive.google.com/drive/folders/1fRUTlW2GDJrBQ8kAGzNmp4CrPI2SVbp6?usp=drive_link)
-
-place the images folder in eazy-eatz/public.
-
 2. **Navigate into the project folder**
 
 `cd eazy-eatz`
