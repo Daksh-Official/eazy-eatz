@@ -19,9 +19,9 @@ Welcome to **Eazy Eatz**, a responsive and visually appealing frontend project b
 
 ## 🖼️ Screenshots
 
-- ![Home Page](screenshots/home.png)<br>
-- ![Menu Section](screenshots/menu.png)<br>
-- ![Billing Summary](screenshots/checkout.png) <br>
+![Home Page](screenshots/home.png)<br><br><br>
+![Menu Section](screenshots/menu.png)<br><br><br>
+![Billing Summary](screenshots/checkout.png) <br><br><br>
 
 ---
 
