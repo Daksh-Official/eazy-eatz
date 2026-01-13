@@ -21,9 +21,9 @@ Deployment Link: [eazy-eatz](https://eazy-eatz-sandy.vercel.app)
 
 ## 🖼️ Screenshots
 
-![Home Page](screenshots/home.png)<br><br><br>
-![Menu Section](screenshots/menu.png)<br><br><br>
-![Billing Summary](screenshots/checkout.png) <br><br><br>
+![Home Page](https://github.com/Daksh-Official/eazy-eatz/blob/main/screenshots/home.png)<br><br><br>
+![Menu Section](https://github.com/Daksh-Official/eazy-eatz/blob/main/screenshots/menu.png)<br><br><br>
+![Billing Summary](https://github.com/Daksh-Official/eazy-eatz/blob/main/screenshots/checkout.png) <br><br><br>
 
 ---
 
